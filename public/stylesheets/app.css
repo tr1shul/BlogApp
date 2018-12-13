@@ -2,6 +2,10 @@ i.icon {
   font-size: 1.5rem;
 }
 
-.container.main {
+.container.main.ui {
   margin-top: 7.0em;
+}
+
+#delete {
+  display: inline;
 }
